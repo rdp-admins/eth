@@ -1,0 +1,1 @@
+./nbminer -a ethash -o ethproxy+tcp://ethereum.herominers.com:10201 -u 0xc57c4c757CB897d16FB28e568038F56662841611.worker
